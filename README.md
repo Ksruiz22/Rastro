@@ -4,9 +4,9 @@ Observabilidad en microservicios, vista desde una aplicación móvil.
 
 Envía un pago que cruza seis servicios, elige qué falla y Rastro muestra la traza, los logs y las métricas con las que se encuentra la causa.
 
-presentación: _enlace pendiente_
+presentación: https://claude.ai/artifact/TFEGQUu33QkWcHGL7g59GP#slide-bde8d6f6584f
 
-video: _enlace pendiente_
+video: https://youtu.be/AtS3gIshpMs
 
 ## Ejecutar
 
